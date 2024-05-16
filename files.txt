@@ -1,0 +1,16 @@
+/Users/reneemirka/Downloads/max-cut-experiments/files/soc-dolphins.mtx
+/Users/reneemirka/Downloads/max-cut-experiments/files/ENZYMES8.mtx
+/Users/reneemirka/Downloads/max-cut-experiments/files/johnson16-2-4.mtx
+/Users/reneemirka/Downloads/max-cut-experiments/files/hamming6-2.mtx
+/Users/reneemirka/Downloads/max-cut-experiments/files/ia-infect-hyper.mtx
+/Users/reneemirka/Downloads/max-cut-experiments/files/email-enron-only.mtx
+/Users/reneemirka/Downloads/max-cut-experiments/files/dwt_209.mtx
+/Users/reneemirka/Downloads/max-cut-experiments/files/inf-USAir97.mtx
+/Users/reneemirka/Downloads/max-cut-experiments/files/ca-netscience.mtx
+/Users/reneemirka/Downloads/max-cut-experiments/files/ia-infect-dublin.mtx
+/Users/reneemirka/Downloads/max-cut-experiments/files2/road-chesapeake.mtx
+/Users/reneemirka/Downloads/max-cut-experiments/files2/Erdos991.mtx
+/Users/reneemirka/Downloads/max-cut-experiments/files2/dwt_503.mtx
+/Users/reneemirka/Downloads/max-cut-experiments/files2/p-hat700-1.mtx
+/Users/reneemirka/Downloads/max-cut-experiments/files2/DD687.mtx
+/Users/reneemirka/Downloads/max-cut-experiments/files2/email-univ.mtx

@@ -1,0 +1,106 @@
+Random 2SAT instances 
+┌───────────────────────────────────┬────────────┬────────────────────┬──────────┬─────────┐
+│                          Instance │ Found cost │         Loop Costs │    Ratio │ Optimal │
+├───────────────────────────────────┼────────────┼────────────────────┼──────────┼─────────┤
+│ Random2SAT_2x/Random2SAT(100,200) │        5.0 │      Any[200, 5.0] │ 0.989583 │       4 │
+│ Random2SAT_2x/Random2SAT(101,202) │        5.0 │ Any[202, 7.0, 5.0] │ 0.989691 │       3 │
+│ Random2SAT_2x/Random2SAT(102,204) │        5.0 │ Any[204, 7.0, 5.0] │ 0.989796 │       5 │
+│ Random2SAT_2x/Random2SAT(103,206) │        6.0 │      Any[206, 6.0] │ 0.979798 │       5 │
+│ Random2SAT_2x/Random2SAT(104,208) │        4.0 │ Any[208, 6.0, 4.0] │      1.0 │       2 │
+│ Random2SAT_2x/Random2SAT(105,210) │        4.0 │      Any[210, 4.0] │      1.0 │       4 │
+│ Random2SAT_2x/Random2SAT(106,212) │        7.0 │      Any[212, 7.0] │ 0.970588 │       5 │
+│ Random2SAT_2x/Random2SAT(107,214) │        214 │           Any[214] │ -1.03883 │       6 │
+│ Random2SAT_2x/Random2SAT(108,216) │        4.0 │ Any[216, 5.0, 4.0] │      1.0 │       3 │
+│ Random2SAT_2x/Random2SAT(109,218) │        7.0 │      Any[218, 7.0] │ 0.971429 │       4 │
+│ Random2SAT_2x/Random2SAT(110,220) │        9.0 │      Any[220, 9.0] │  0.95283 │       6 │
+│ Random2SAT_2x/Random2SAT(111,222) │        8.0 │      Any[222, 8.0] │ 0.962617 │       5 │
+│ Random2SAT_2x/Random2SAT(112,224) │        6.0 │      Any[224, 6.0] │ 0.981481 │       5 │
+│ Random2SAT_2x/Random2SAT(113,226) │        7.0 │      Any[226, 7.0] │ 0.972477 │       5 │
+│ Random2SAT_2x/Random2SAT(114,228) │        7.0 │      Any[228, 7.0] │ 0.972727 │       5 │
+│ Random2SAT_2x/Random2SAT(115,230) │        7.0 │ Any[230, 8.0, 7.0] │ 0.972973 │       5 │
+│ Random2SAT_2x/Random2SAT(116,232) │        5.0 │      Any[232, 5.0] │ 0.991071 │       3 │
+│ Random2SAT_2x/Random2SAT(117,234) │        8.0 │      Any[234, 8.0] │ 0.964602 │       6 │
+│ Random2SAT_2x/Random2SAT(118,236) │        2.0 │      Any[236, 2.0] │  1.01754 │       2 │
+│ Random2SAT_2x/Random2SAT(119,238) │        238 │           Any[238] │ -1.03478 │       6 │
+│ Random2SAT_2x/Random2SAT(120,240) │       10.0 │     Any[240, 10.0] │ 0.948276 │       6 │
+│ Random2SAT_2x/Random2SAT(121,242) │        7.0 │      Any[242, 7.0] │ 0.974359 │       5 │
+│ Random2SAT_2x/Random2SAT(122,244) │        6.0 │      Any[244, 6.0] │ 0.983051 │       4 │
+│ Random2SAT_2x/Random2SAT(123,246) │       10.0 │     Any[246, 10.0] │  0.94958 │       5 │
+│ Random2SAT_2x/Random2SAT(124,248) │        5.0 │      Any[248, 5.0] │ 0.991667 │       3 │
+│ Random2SAT_2x/Random2SAT(125,250) │        9.0 │      Any[250, 9.0] │ 0.958678 │       6 │
+│ Random2SAT_2x/Random2SAT(126,252) │        7.0 │      Any[252, 7.0] │  0.97541 │       5 │
+│ Random2SAT_2x/Random2SAT(127,254) │        8.0 │      Any[254, 8.0] │  0.96748 │       4 │
+│ Random2SAT_2x/Random2SAT(128,256) │        9.0 │      Any[256, 9.0] │ 0.959677 │       6 │
+│ Random2SAT_2x/Random2SAT(129,258) │       13.0 │     Any[258, 13.0] │    0.928 │       9 │
+│ Random2SAT_2x/Random2SAT(130,260) │       10.0 │     Any[260, 10.0] │ 0.952381 │       7 │
+│ Random2SAT_2x/Random2SAT(131,262) │        7.0 │      Any[262, 7.0] │ 0.976378 │       5 │
+│ Random2SAT_2x/Random2SAT(132,264) │       12.0 │     Any[264, 12.0] │   0.9375 │       8 │
+│ Random2SAT_2x/Random2SAT(133,266) │       11.0 │     Any[266, 11.0] │ 0.945736 │       5 │
+│ Random2SAT_2x/Random2SAT(134,268) │       10.0 │     Any[268, 10.0] │ 0.953846 │       5 │
+│ Random2SAT_2x/Random2SAT(135,270) │        9.0 │      Any[270, 9.0] │ 0.961832 │       7 │
+│ Random2SAT_2x/Random2SAT(136,272) │        272 │           Any[272] │  -1.0303 │       8 │
+│ Random2SAT_2x/Random2SAT(137,274) │        274 │           Any[274] │ -1.03008 │       3 │
+│ Random2SAT_2x/Random2SAT(138,276) │       14.0 │     Any[276, 14.0] │ 0.925373 │      10 │
+│ Random2SAT_2x/Random2SAT(139,278) │        278 │           Any[278] │ -1.02963 │       8 │
+│ Random2SAT_2x/Random2SAT(140,280) │       11.0 │     Any[280, 11.0] │ 0.948529 │       6 │
+│ Random2SAT_2x/Random2SAT(141,282) │        9.0 │      Any[282, 9.0] │ 0.963504 │       4 │
+│ Random2SAT_2x/Random2SAT(142,284) │        284 │           Any[284] │ -1.02899 │       5 │
+│ Random2SAT_2x/Random2SAT(143,286) │        286 │           Any[286] │ -1.02878 │       7 │
+│ Random2SAT_2x/Random2SAT(144,288) │        288 │           Any[288] │ -1.02857 │       5 │
+│ Random2SAT_2x/Random2SAT(145,290) │        290 │           Any[290] │ -1.02837 │       4 │
+│ Random2SAT_2x/Random2SAT(146,292) │        292 │           Any[292] │ -1.02817 │       7 │
+│ Random2SAT_2x/Random2SAT(147,294) │        294 │           Any[294] │ -1.02797 │       6 │
+│ Random2SAT_2x/Random2SAT(148,296) │        296 │           Any[296] │ -1.02778 │       7 │
+│ Random2SAT_2x/Random2SAT(149,298) │        298 │           Any[298] │ -1.02759 │       7 │
+│ Random2SAT_2x/Random2SAT(150,300) │        300 │           Any[300] │  -1.0274 │       2 │
+│ Random2SAT_2x/Random2SAT(151,302) │        302 │           Any[302] │ -1.02721 │       5 │
+│ Random2SAT_2x/Random2SAT(152,304) │        304 │           Any[304] │ -1.02703 │       7 │
+│ Random2SAT_2x/Random2SAT(153,306) │        306 │           Any[306] │ -1.02685 │       6 │
+│ Random2SAT_2x/Random2SAT(154,308) │        308 │           Any[308] │ -1.02667 │       7 │
+│ Random2SAT_2x/Random2SAT(155,310) │        310 │           Any[310] │ -1.02649 │       6 │
+│ Random2SAT_2x/Random2SAT(156,312) │        312 │           Any[312] │ -1.02632 │       4 │
+│ Random2SAT_2x/Random2SAT(157,314) │        314 │           Any[314] │ -1.02614 │       6 │
+│ Random2SAT_2x/Random2SAT(158,316) │        316 │           Any[316] │ -1.02597 │       4 │
+│ Random2SAT_2x/Random2SAT(159,318) │        318 │           Any[318] │ -1.02581 │       9 │
+│ Random2SAT_2x/Random2SAT(160,320) │        320 │           Any[320] │ -1.02564 │       6 │
+│ Random2SAT_2x/Random2SAT(161,322) │        322 │           Any[322] │ -1.02548 │       6 │
+│ Random2SAT_2x/Random2SAT(162,324) │        324 │           Any[324] │ -1.02532 │       8 │
+│ Random2SAT_2x/Random2SAT(163,326) │        326 │           Any[326] │ -1.02516 │       7 │
+│ Random2SAT_2x/Random2SAT(164,328) │        328 │           Any[328] │   -1.025 │       4 │
+│ Random2SAT_2x/Random2SAT(165,330) │        330 │           Any[330] │ -1.02484 │       5 │
+│ Random2SAT_2x/Random2SAT(166,332) │        332 │           Any[332] │ -1.02469 │       5 │
+│ Random2SAT_2x/Random2SAT(167,334) │        334 │           Any[334] │ -1.02454 │       7 │
+│ Random2SAT_2x/Random2SAT(168,336) │        336 │           Any[336] │ -1.02439 │       7 │
+│ Random2SAT_2x/Random2SAT(169,338) │        338 │           Any[338] │ -1.02424 │       9 │
+│ Random2SAT_2x/Random2SAT(170,340) │        340 │           Any[340] │  -1.0241 │       7 │
+│ Random2SAT_2x/Random2SAT(171,342) │        342 │           Any[342] │ -1.02395 │       6 │
+│ Random2SAT_2x/Random2SAT(172,344) │        344 │           Any[344] │ -1.02381 │       9 │
+│ Random2SAT_2x/Random2SAT(173,346) │        346 │           Any[346] │ -1.02367 │      11 │
+│ Random2SAT_2x/Random2SAT(174,348) │        348 │           Any[348] │ -1.02353 │      10 │
+│ Random2SAT_2x/Random2SAT(175,350) │        350 │           Any[350] │ -1.02339 │       8 │
+│ Random2SAT_2x/Random2SAT(176,352) │        352 │           Any[352] │ -1.02326 │       8 │
+│ Random2SAT_2x/Random2SAT(177,354) │        354 │           Any[354] │ -1.02312 │       6 │
+│ Random2SAT_2x/Random2SAT(178,356) │        356 │           Any[356] │ -1.02299 │       9 │
+│ Random2SAT_2x/Random2SAT(179,358) │        358 │           Any[358] │ -1.02286 │      10 │
+│ Random2SAT_2x/Random2SAT(180,360) │        360 │           Any[360] │ -1.02273 │       5 │
+│ Random2SAT_2x/Random2SAT(181,362) │        362 │           Any[362] │  -1.0226 │       8 │
+│ Random2SAT_2x/Random2SAT(182,364) │        364 │           Any[364] │ -1.02247 │       8 │
+│ Random2SAT_2x/Random2SAT(183,366) │        366 │           Any[366] │ -1.02235 │       9 │
+│ Random2SAT_2x/Random2SAT(184,368) │        368 │           Any[368] │ -1.02222 │       7 │
+│ Random2SAT_2x/Random2SAT(185,370) │        370 │           Any[370] │  -1.0221 │       9 │
+│ Random2SAT_2x/Random2SAT(186,372) │        372 │           Any[372] │ -1.02198 │       9 │
+│ Random2SAT_2x/Random2SAT(187,374) │        374 │           Any[374] │ -1.02186 │       7 │
+│ Random2SAT_2x/Random2SAT(188,376) │        376 │           Any[376] │ -1.02174 │       8 │
+│ Random2SAT_2x/Random2SAT(189,378) │        378 │           Any[378] │ -1.02162 │       7 │
+│ Random2SAT_2x/Random2SAT(190,380) │        380 │           Any[380] │ -1.02151 │       8 │
+│ Random2SAT_2x/Random2SAT(191,382) │        382 │           Any[382] │ -1.02139 │       9 │
+│ Random2SAT_2x/Random2SAT(192,384) │        384 │           Any[384] │ -1.02128 │       8 │
+│ Random2SAT_2x/Random2SAT(193,386) │        386 │           Any[386] │ -1.02116 │       9 │
+│ Random2SAT_2x/Random2SAT(194,388) │        388 │           Any[388] │ -1.02105 │      10 │
+│ Random2SAT_2x/Random2SAT(195,390) │        390 │           Any[390] │ -1.02094 │       5 │
+│ Random2SAT_2x/Random2SAT(196,392) │        392 │           Any[392] │ -1.02083 │       7 │
+│ Random2SAT_2x/Random2SAT(197,394) │        394 │           Any[394] │ -1.02073 │       9 │
+│ Random2SAT_2x/Random2SAT(198,396) │        396 │           Any[396] │ -1.02062 │       7 │
+│ Random2SAT_2x/Random2SAT(199,398) │        398 │           Any[398] │ -1.02051 │       9 │
+│ Random2SAT_2x/Random2SAT(200,400) │        400 │           Any[400] │ -1.02041 │       9 │
+└───────────────────────────────────┴────────────┴────────────────────┴──────────┴─────────┘

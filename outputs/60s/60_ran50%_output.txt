@@ -1,0 +1,106 @@
+Random 2SAT instances 
+┌────────────────────────────────────┬────────────┬───────────────────┐
+│                           Instance │ Found cost │        Loop Costs │
+├────────────────────────────────────┼────────────┼───────────────────┤
+│  Random2SAT_50%/Random2SAT(100,50) │        0.0 │      Any[50, 0.0] │
+│  Random2SAT_50%/Random2SAT(101,50) │        0.0 │      Any[50, 0.0] │
+│  Random2SAT_50%/Random2SAT(102,51) │        0.0 │      Any[51, 0.0] │
+│  Random2SAT_50%/Random2SAT(103,52) │        0.0 │      Any[52, 0.0] │
+│  Random2SAT_50%/Random2SAT(104,52) │        0.0 │      Any[52, 0.0] │
+│  Random2SAT_50%/Random2SAT(105,52) │        0.0 │      Any[52, 0.0] │
+│  Random2SAT_50%/Random2SAT(106,53) │        0.0 │      Any[53, 0.0] │
+│  Random2SAT_50%/Random2SAT(107,54) │        0.0 │      Any[54, 0.0] │
+│  Random2SAT_50%/Random2SAT(108,54) │        0.0 │      Any[54, 0.0] │
+│  Random2SAT_50%/Random2SAT(109,54) │        0.0 │      Any[54, 0.0] │
+│  Random2SAT_50%/Random2SAT(110,55) │        0.0 │ Any[55, 1.0, 0.0] │
+│  Random2SAT_50%/Random2SAT(111,56) │        0.0 │      Any[56, 0.0] │
+│  Random2SAT_50%/Random2SAT(112,56) │        0.0 │      Any[56, 0.0] │
+│  Random2SAT_50%/Random2SAT(113,56) │        0.0 │      Any[56, 0.0] │
+│  Random2SAT_50%/Random2SAT(114,57) │        0.0 │      Any[57, 0.0] │
+│  Random2SAT_50%/Random2SAT(115,58) │        0.0 │      Any[58, 0.0] │
+│  Random2SAT_50%/Random2SAT(116,58) │        0.0 │      Any[58, 0.0] │
+│  Random2SAT_50%/Random2SAT(117,58) │        0.0 │      Any[58, 0.0] │
+│  Random2SAT_50%/Random2SAT(118,59) │        0.0 │      Any[59, 0.0] │
+│  Random2SAT_50%/Random2SAT(119,60) │        0.0 │      Any[60, 0.0] │
+│  Random2SAT_50%/Random2SAT(120,60) │        0.0 │      Any[60, 0.0] │
+│  Random2SAT_50%/Random2SAT(121,60) │        0.0 │      Any[60, 0.0] │
+│  Random2SAT_50%/Random2SAT(122,61) │        0.0 │      Any[61, 0.0] │
+│  Random2SAT_50%/Random2SAT(123,62) │        0.0 │      Any[62, 0.0] │
+│  Random2SAT_50%/Random2SAT(124,62) │        0.0 │      Any[62, 0.0] │
+│  Random2SAT_50%/Random2SAT(125,62) │        0.0 │      Any[62, 0.0] │
+│  Random2SAT_50%/Random2SAT(126,63) │         63 │           Any[63] │
+│  Random2SAT_50%/Random2SAT(127,64) │        0.0 │      Any[64, 0.0] │
+│  Random2SAT_50%/Random2SAT(128,64) │        0.0 │      Any[64, 0.0] │
+│  Random2SAT_50%/Random2SAT(129,64) │        0.0 │      Any[64, 0.0] │
+│  Random2SAT_50%/Random2SAT(130,65) │        0.0 │      Any[65, 0.0] │
+│  Random2SAT_50%/Random2SAT(131,66) │        0.0 │      Any[66, 0.0] │
+│  Random2SAT_50%/Random2SAT(132,66) │        0.0 │      Any[66, 0.0] │
+│  Random2SAT_50%/Random2SAT(133,66) │        0.0 │      Any[66, 0.0] │
+│  Random2SAT_50%/Random2SAT(134,67) │        0.0 │      Any[67, 0.0] │
+│  Random2SAT_50%/Random2SAT(135,68) │        0.0 │      Any[68, 0.0] │
+│  Random2SAT_50%/Random2SAT(136,68) │        0.0 │      Any[68, 0.0] │
+│  Random2SAT_50%/Random2SAT(137,68) │        0.0 │      Any[68, 0.0] │
+│  Random2SAT_50%/Random2SAT(138,69) │        0.0 │      Any[69, 0.0] │
+│  Random2SAT_50%/Random2SAT(139,70) │        0.0 │      Any[70, 0.0] │
+│  Random2SAT_50%/Random2SAT(140,70) │        0.0 │      Any[70, 0.0] │
+│  Random2SAT_50%/Random2SAT(141,70) │        0.0 │      Any[70, 0.0] │
+│  Random2SAT_50%/Random2SAT(142,71) │        0.0 │      Any[71, 0.0] │
+│  Random2SAT_50%/Random2SAT(143,72) │        0.0 │      Any[72, 0.0] │
+│  Random2SAT_50%/Random2SAT(144,72) │        0.0 │      Any[72, 0.0] │
+│  Random2SAT_50%/Random2SAT(145,72) │        0.0 │      Any[72, 0.0] │
+│  Random2SAT_50%/Random2SAT(146,73) │        0.0 │      Any[73, 0.0] │
+│  Random2SAT_50%/Random2SAT(147,74) │        0.0 │      Any[74, 0.0] │
+│  Random2SAT_50%/Random2SAT(148,74) │        0.0 │      Any[74, 0.0] │
+│  Random2SAT_50%/Random2SAT(149,74) │        0.0 │      Any[74, 0.0] │
+│  Random2SAT_50%/Random2SAT(150,75) │        0.0 │      Any[75, 0.0] │
+│  Random2SAT_50%/Random2SAT(151,76) │        0.0 │      Any[76, 0.0] │
+│  Random2SAT_50%/Random2SAT(152,76) │        0.0 │      Any[76, 0.0] │
+│  Random2SAT_50%/Random2SAT(153,76) │        0.0 │      Any[76, 0.0] │
+│  Random2SAT_50%/Random2SAT(154,77) │        0.0 │      Any[77, 0.0] │
+│  Random2SAT_50%/Random2SAT(155,78) │        0.0 │      Any[78, 0.0] │
+│  Random2SAT_50%/Random2SAT(156,78) │        0.0 │      Any[78, 0.0] │
+│  Random2SAT_50%/Random2SAT(157,78) │        0.0 │      Any[78, 0.0] │
+│  Random2SAT_50%/Random2SAT(158,79) │        0.0 │      Any[79, 0.0] │
+│  Random2SAT_50%/Random2SAT(159,80) │        0.0 │      Any[80, 0.0] │
+│  Random2SAT_50%/Random2SAT(160,80) │        0.0 │      Any[80, 0.0] │
+│  Random2SAT_50%/Random2SAT(161,80) │        0.0 │      Any[80, 0.0] │
+│  Random2SAT_50%/Random2SAT(162,81) │        0.0 │      Any[81, 0.0] │
+│  Random2SAT_50%/Random2SAT(163,82) │        0.0 │      Any[82, 0.0] │
+│  Random2SAT_50%/Random2SAT(164,82) │        0.0 │      Any[82, 0.0] │
+│  Random2SAT_50%/Random2SAT(165,82) │        0.0 │      Any[82, 0.0] │
+│  Random2SAT_50%/Random2SAT(166,83) │        0.0 │      Any[83, 0.0] │
+│  Random2SAT_50%/Random2SAT(167,84) │        0.0 │      Any[84, 0.0] │
+│  Random2SAT_50%/Random2SAT(168,84) │        1.0 │      Any[84, 1.0] │
+│  Random2SAT_50%/Random2SAT(169,84) │        0.0 │      Any[84, 0.0] │
+│  Random2SAT_50%/Random2SAT(170,85) │        0.0 │      Any[85, 0.0] │
+│  Random2SAT_50%/Random2SAT(171,86) │        0.0 │      Any[86, 0.0] │
+│  Random2SAT_50%/Random2SAT(172,86) │         86 │           Any[86] │
+│  Random2SAT_50%/Random2SAT(173,86) │         86 │           Any[86] │
+│  Random2SAT_50%/Random2SAT(174,87) │        0.0 │      Any[87, 0.0] │
+│  Random2SAT_50%/Random2SAT(175,88) │        0.0 │      Any[88, 0.0] │
+│  Random2SAT_50%/Random2SAT(176,88) │         88 │           Any[88] │
+│  Random2SAT_50%/Random2SAT(177,88) │        0.0 │      Any[88, 0.0] │
+│  Random2SAT_50%/Random2SAT(178,89) │        0.0 │      Any[89, 0.0] │
+│  Random2SAT_50%/Random2SAT(179,90) │        0.0 │      Any[90, 0.0] │
+│  Random2SAT_50%/Random2SAT(180,90) │         90 │           Any[90] │
+│  Random2SAT_50%/Random2SAT(181,90) │         90 │           Any[90] │
+│  Random2SAT_50%/Random2SAT(182,91) │        0.0 │      Any[91, 0.0] │
+│  Random2SAT_50%/Random2SAT(183,92) │         92 │           Any[92] │
+│  Random2SAT_50%/Random2SAT(184,92) │        0.0 │      Any[92, 0.0] │
+│  Random2SAT_50%/Random2SAT(185,92) │        0.0 │      Any[92, 0.0] │
+│  Random2SAT_50%/Random2SAT(186,93) │        0.0 │      Any[93, 0.0] │
+│  Random2SAT_50%/Random2SAT(187,94) │         94 │           Any[94] │
+│  Random2SAT_50%/Random2SAT(188,94) │         94 │           Any[94] │
+│  Random2SAT_50%/Random2SAT(189,94) │         94 │           Any[94] │
+│  Random2SAT_50%/Random2SAT(190,95) │        0.0 │      Any[95, 0.0] │
+│  Random2SAT_50%/Random2SAT(191,96) │         96 │           Any[96] │
+│  Random2SAT_50%/Random2SAT(192,96) │         96 │           Any[96] │
+│  Random2SAT_50%/Random2SAT(193,96) │         96 │           Any[96] │
+│  Random2SAT_50%/Random2SAT(194,97) │         97 │           Any[97] │
+│  Random2SAT_50%/Random2SAT(195,98) │         98 │           Any[98] │
+│  Random2SAT_50%/Random2SAT(196,98) │         98 │           Any[98] │
+│  Random2SAT_50%/Random2SAT(197,98) │         98 │           Any[98] │
+│  Random2SAT_50%/Random2SAT(198,99) │         99 │           Any[99] │
+│ Random2SAT_50%/Random2SAT(199,100) │        100 │          Any[100] │
+│ Random2SAT_50%/Random2SAT(200,100) │        100 │          Any[100] │
+└────────────────────────────────────┴────────────┴───────────────────┘
