@@ -1,0 +1,5 @@
+/Users/reneemirka/Downloads/max-cut-experiments/dicut/bio-celegansneural.mtx
+/Users/reneemirka/Downloads/max-cut-experiments/dicut/GD00_c.mtx
+/Users/reneemirka/Downloads/max-cut-experiments/dicut/GD02_b.mtx
+/Users/reneemirka/Downloads/max-cut-experiments/dicut/GD95_c.mtx
+/Users/reneemirka/Downloads/max-cut-experiments/dicut/Harvard500.mtx

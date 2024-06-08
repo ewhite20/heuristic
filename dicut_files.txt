@@ -1,0 +1,8 @@
+/Users/reneemirka/Downloads/max-cut-experiments/dicut/900-1
+/Users/reneemirka/Downloads/max-cut-experiments/dicut/900-2
+/Users/reneemirka/Downloads/max-cut-experiments/dicut/900-3
+/Users/reneemirka/Downloads/max-cut-experiments/dicut/900-4
+/Users/reneemirka/Downloads/max-cut-experiments/dicut/900-5
+
+/Users/reneemirka/Downloads/max-cut-experiments/dicut/400-1
+/Users/reneemirka/Downloads/max-cut-experiments/dicut/400-2
